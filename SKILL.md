@@ -1,14 +1,25 @@
 ---
 name: large-account-rfp
+version: 1.0.0
 description: >
-  Apply this skill for any task involving large enterprise account management, RFP/bid pursuit,
-  account prioritization, deal classification, win strategy, client engagement models, or bid
-  defense. Triggers include: "account plan," "RFP response," "bid management," "win strategy,"
-  "opportunity qualification," "account prioritization," "Platinum/Gold/Silver/Bronze deal,"
-  "bid team," "bid defense," "client engagement model," "value discovery session," "win-ability
-  scorecard," or any request to build, score, or structure an enterprise account or bid pursuit.
-source: Large_Account_Management__RFP_Process.pptx (82 slides, internal training deck)
-author: [Author] | [Company]
+  A complete enterprise account management and RFP bid excellence framework for sales teams,
+  account managers, and bid professionals. Apply this skill for any task involving: large account
+  planning, RFP response, bid management, win strategy, opportunity qualification, account
+  prioritization, deal classification (Platinum/Gold/Silver/Bronze), bid team structuring,
+  bid defense preparation, client engagement models, value discovery sessions, or win-ability
+  scoring. Works across IT services, consulting, SaaS, engineering, and professional services.
+  Triggers include: "account plan," "RFP response," "bid strategy," "win strategy," "opportunity
+  scoring," "account prioritization," "bid team," "bid defense," "engagement model," or any
+  request to structure an enterprise account or manage a bid pursuit end-to-end.
+tags:
+  - enterprise-sales
+  - account-management
+  - RFP
+  - bid-management
+  - win-strategy
+  - B2B
+  - large-deals
+license: MIT
 ---
 
 # Large Account Management & RFP Process Skill
@@ -168,11 +179,11 @@ Three steps to identify new client opportunities:
 
 | Forum | Frequency | Participants | Sample Agenda |
 |-------|-----------|------------|---------------|
-| Steering Committee | Quarterly | Client leadership + SS leadership | Strategic direction, escalation resolution, commitments review |
-| Value Discovery Workshop | Quarterly | Client CP + SS CP/AM | Hot buttons, solutions pipeline, joint roadmap |
-| BU Steering Committee | Monthly | Division leads + SS exec committee | Performance review, SoW pipeline, CSAT |
-| Working Team Meeting | Initially weekly, then fortnightly | Project leads + SS engagement committee | Project status, approvals, CSAT review |
-| CSAT Review | Annually | Client VP + SS CP/AM | Scores by division, pain points, corrective measures |
+| Steering Committee | Quarterly | Client leadership + Your Company leadership | Strategic direction, escalation resolution, commitments review |
+| Value Discovery Workshop | Quarterly | Client CP + Your CP/AM | Hot buttons, solutions pipeline, joint roadmap |
+| BU Steering Committee | Monthly | Division leads + Your exec committee | Performance review, SoW pipeline, CSAT |
+| Working Team Meeting | Initially weekly, then fortnightly | Project leads + Your engagement committee | Project status, approvals, CSAT review |
+| CSAT Review | Annually | Client VP + Your CP/AM | Scores by division, pain points, corrective measures |
 
 ### Value Discovery Session — Template
 
@@ -181,9 +192,9 @@ For each hot button (capture 4+):
 | Field | Content |
 |-------|---------|
 | Client Hot Button | Specific business/IT pain point |
-| SS Proposed Solution | Service offering or approach |
-| Win Theme / Value Proposition | Why SS is the right choice |
-| Discriminators | What makes SS uniquely qualified |
+| Your Proposed Solution | Service offering or approach |
+| Win Theme / Value Proposition | Why your company is the right choice |
+| Discriminators | What makes your company uniquely qualified |
 | Proof Point | Reference, case study, metric |
 | Elaboration | Details of the proof point |
 | Result/Performance Promised | Measurable expected outcome |
@@ -191,7 +202,7 @@ For each hot button (capture 4+):
 ### Client Interaction Log
 
 Track every senior interaction monthly:
-- Date | SS Lead | Client Name | Position | Meeting Context | Key Takeaways
+- Date | Your Lead | Client Name | Position | Meeting Context | Key Takeaways
 
 Feed key takeaways into the account attack plan on a rolling basis.
 
@@ -365,7 +376,7 @@ _For 72-hour turnaround RFPs: use standardized templates with existing collatera
 | Field | Content |
 |-------|---------|
 | Client Hot Button | |
-| SS Proposed Solution | |
+| Your Proposed Solution | |
 | Value Proposition to Client | |
 | Discriminators (USP) | |
 | Proof Point | |
@@ -380,8 +391,8 @@ Two axes scored:
 - Scope and client profile
 - Size of deal and business case
 
-*SS Ability to Win:*
-- Alignment with SS's capability
+*Your Ability to Win:*
+- Alignment with Your company's capability
 - Strength of client relationship and access
 - Intelligence on competition and relative position
 - Timeframe and legal considerations
@@ -412,16 +423,16 @@ Capture across eight categories:
 **B2 — Win Strategy**
 
 *Part 1 (Hot Buttons & Hygiene Factors):*
-| Hot Button | SS Proposed Strategy (Win Theme) | Key Elements of SS Expertise to Showcase |
+| Hot Button | Your Proposed Strategy (Win Theme) | Key Elements of Your Expertise to Showcase |
 
 *Part 2 (Discriminators):*
-| Positive Discriminators | SS Winning Theme Statement | Value Proposition | SS Proposed Approach |
+| Positive Discriminators | Your Winning Theme Statement | Value Proposition | Your Proposed Approach |
 
 Document for each proposal section: Business Solution, Technical Solution, Service Delivery Model,
 Transition Planning, Governance, Process/Methodologies, HR/Change, Commercials/Pricing.
 
 Also capture competitor negative discriminators:
-| Competitor | Their Strength or SS Weakness | Gap | SS Approach to Counter |
+| Competitor | Their Strength or Your Weakness | Gap | Your Approach to Counter |
 
 **B3 — Bid Team Composition & Work Planning**
 - Identify expertise; mobilize bid team based on win strategy
@@ -454,7 +465,7 @@ Benefits statement for client:
 
 **C1 — Client Engagement**
 - Engagement plan per workshop: objectives, owners, clarification questions
-- Capture consolidated clarification questions by category: question | clarification forum | SS owner
+- Capture consolidated clarification questions by category: question | clarification forum | Your owner
 
 **C2 — Solution Development & Integration**
 - Integrated business, technical, and operational solution
@@ -518,7 +529,7 @@ Benefits statement for client:
 
 **D3 — Client Visits**
 - Understand client's objective for the visit
-- Plan SS tour, agenda, scripting, role play, logistics and cultural nuances
+- Plan your company tour, agenda, scripting, role play, logistics and cultural nuances
 - Execute dry run; post-visit debrief and internal evaluation
 
 ---
@@ -599,31 +610,61 @@ Status: ✅ On Track | ⚠️ Attention Required | 🔴 At Risk
 
 ---
 
-## Part 19: Application Guidance for [Company] / [Partner] Context
+## Part 19: Adapting This Framework to Your Organization
 
-When applying this framework for [Company] or [Partner] opportunities:
+This skill is industry-agnostic. Whether you sell IT services, consulting, SaaS, engineering, or
+professional services — the structure applies. Here is how to make it yours.
 
-### Deal Classification Mapping
-- **Platinum:** Oracle managed services $50M+ TCV; AMD co-sell infrastructure with multiple DCs
-- **Gold:** Oracle Cloud ERP/HCM transformation; Neo DC Managed Services; [Partner] MDM enterprise deals
-- **Silver:** Oracle module add-ons; [Partner] SDP expansions; AMD standalone compute
-- **Bronze:** Staffing/consulting augmentation; point solutions
+### Step 1 — Map Your Deal Tiers to Real Numbers
 
-### ICP Hot Buttons to Pre-load ([Company])
-- Oracle Fusion migration cost/risk; managed services cost optimization; AMD vs. NVIDIA 30–40% cost advantage; CMMI Level 3 + ISO 27001 compliance; offshore delivery model scalability
+The Platinum/Gold/Silver/Bronze thresholds in Parts 4 and 10 use illustrative figures. Replace
+them with your organization's actual deal sizes. For example:
 
-### ICP Hot Buttons to Pre-load ([Partner])
-- Data lineage gaps (ADF/Qlik); reactive data quality; SAP cryptic metadata; Alation vs. Databricks conflict; distributed MDM fragmentation; regulatory compliance (HIPAA, Bill C-27, RBI)
+| Your Tier Name | Your TCV Threshold | Your Pursuit Lead |
+|---------------|-------------------|------------------|
+| Strategic / Tier 1 | e.g., >$10M | CEO or Business Unit Head |
+| Major / Tier 2 | e.g., $3–10M | Practice Head or Regional VP |
+| Standard / Tier 3 | e.g., $1–3M | Sales Manager |
+| Transactional | e.g., <$1M | Account Executive |
 
-### Executive Sponsor Assignment
-- Platinum: CEO/Managing Director of [Company]
-- Gold: VP of IT Project Sales ([Author]) or Practice Head
-- Silver/Bronze: Account Manager or Client Partner
+### Step 2 — Pre-Load Your ICP Hot Buttons
 
-### Win-Ability Pre-scores for Known Relationships
-Use the scoring tables in Parts 3 and 10 with actual account data. Feed results into the
-prioritization matrix. Flag any account where E (untapped potential) > $2M and J (ability to win)
-> 4 as immediate pipeline priority.
+Before any RFP or account planning session, document the top 3–5 hot buttons your target buyers
+consistently raise. These feed directly into the Opportunity Analysis (Part 13) and Win Strategy
+(Part 14). Common categories by sector:
+
+| Sector | Typical Hot Buttons |
+|--------|-------------------|
+| Enterprise IT Services | Cost reduction, offshore delivery risk, CSAT, compliance, vendor consolidation |
+| Cloud / SaaS | Time-to-value, integration complexity, data security, scalability, TCO |
+| Consulting / Advisory | Speed of insight, implementation risk, change management, ROI proof |
+| Engineering / Manufacturing | Quality, supply chain risk, lead time, regulatory compliance |
+
+### Step 3 — Assign Your Governance Roles
+
+Replace the illustrative role names in Parts 7 and 11 with your actual org structure:
+
+- **Executive Sponsor** → Who in your org carries the client relationship at C-level?
+- **Deal Principal / Bid Lead** → Who owns the RFP response end-to-end?
+- **Solution Manager** → Who architects the technical/service solution?
+- **Commercial Manager** → Who owns pricing, deal structure, and risk?
+- **Account Manager** → Who manages the ongoing relationship post-win?
+
+### Step 4 — Set Your Review Cadence
+
+The Blue/Pink/Red review sequence (Part 15) works for any deal above your top tier threshold.
+For mid-tier deals, run at minimum a Pink + Red review. For transactional deals, a single
+internal review before submission is sufficient.
+
+### Step 5 — Build Your Proof Point Library
+
+The Opportunity Analysis and Proposal Summary templates both require Proof Points — references,
+case studies, and metrics. Before your first use, compile:
+- 3–5 client references by industry or use case
+- Key metrics from past wins (cost saved, time reduced, ROI delivered)
+- Any certifications, awards, or analyst recognition relevant to your buyers
+
+---
 
 ---
 
