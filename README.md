@@ -2,7 +2,7 @@
 
 A structured, ready-to-use framework for enterprise sales teams, account managers, and bid
 professionals. Drop this skill into any AI assistant (Claude, GPT, etc.) or use it directly
-as a reference playbook — it turns a complex 82-slide enterprise sales methodology into a
+as a reference playbook — it turns a complex enterprise sales methodology into a
 single, actionable document.
 
 **Version:** 1.1.0 — [See changelog](#changelog)
